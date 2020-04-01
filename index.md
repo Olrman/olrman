@@ -2,7 +2,10 @@
 
 You can use the [editor on GitHub](https://github.com/Olrman/olrman/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
+<h1> Made by Oliver Johannes Dyg á Rógvi </h1>
+
 <p> Hello World </p>
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
